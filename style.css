@@ -1,0 +1,26 @@
+h2{
+    color:rgb(16, 10, 104);
+}
+
+body{
+    background-color: #61f4ff;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid rgb(179, 235, 133);
+}
+
+footer{
+    border-top: 1px solid rgb(173, 233, 145);
+}
+
+#Luana{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
